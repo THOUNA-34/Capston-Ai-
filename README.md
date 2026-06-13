@@ -207,7 +207,7 @@ Additional points are awarded for sufficient content length.
 
 ## 👨‍💻 Author
 
-**Zaid Khan**
+**Thouna Khaidem**
 
 BE Artificial Intelligence and Data Science
 
